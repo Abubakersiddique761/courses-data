@@ -5,15 +5,6 @@
       "desc": "A branch of engineering that involves the design, production, and operation of machinery.",
       "subtopics": [
         {
-          "name": "Resources",
-          "contents": [
-            {
-              "title": "Context",
-              "link": "https://github.com/Abubakersiddique761/courses-data/blob/main/Mechanical%20Engineering/Context.md"
-            }
-          ]
-        },
-        {
           "name": "Thermodynamics",
           "contents": [
             {
@@ -35,6 +26,15 @@
             {
               "title": "Carnot Cycles and Optimization",
               "link": ""
+            }
+          ]
+        },
+        {
+          "name": "Resources",
+          "contents": [
+            {
+              "title": "Context",
+              "link": "https://github.com/Abubakersiddique761/courses-data/blob/main/Mechanical%20Engineering/Context.md"
             }
           ]
         }
