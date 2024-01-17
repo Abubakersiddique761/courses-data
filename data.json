@@ -5,6 +5,15 @@
       "desc": "A branch of engineering that involves the design, production, and operation of machinery.",
       "subtopics": [
         {
+          "name": "Resources",
+          "contents": [
+            {
+              "title": "Context",
+              "link": ""
+            }
+          ]
+        },
+        {
           "name": "Thermodynamics",
           "contents": [
             {
