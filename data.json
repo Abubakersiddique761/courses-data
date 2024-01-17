@@ -4,59 +4,27 @@
       "type": "Mechanical Engineering",
       "subtopics": [
         {
-          "name": "Subtopic 1",
+          "name": "Thermodynamics",
           "contents": [
             {
-              "title": "Content Title 1",
-              "link": "/path/to/content1.md"
+              "title": "Fundamentals of Thermodynamics",
+              "link": ""
             },
             {
-              "title": "Content Title 2",
-              "link": "/path/to/content2.md"
-            }
-          ]
-        },
-        {
-          "name": "Subtopic 2",
-          "contents": [
-            {
-              "title": "Content Title 3",
-              "link": "/path/to/content3.md"
+              "title": "Heat Transfer",
+              "link": ""
             },
             {
-              "title": "Content Title 4",
-              "link": "/path/to/content4.md"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "Electrical Engineering",
-      "subtopics": [
-        {
-          "name": "Subtopic 1",
-          "contents": [
-            {
-              "title": "Content Title 5",
-              "link": "/path/to/content5.md"
+              "title": "Fluid Dynamics",
+              "link": ""
             },
             {
-              "title": "Content Title 6",
-              "link": "/path/to/content6.md"
-            }
-          ]
-        },
-        {
-          "name": "Subtopic 2",
-          "contents": [
-            {
-              "title": "Content Title 7",
-              "link": "/path/to/content7.md"
+              "title": "Combustion Engines",
+              "link": ""
             },
             {
-              "title": "Content Title 8",
-              "link": "/path/to/content8.md"
+              "title": "Carnot Cycles and Optimization",
+              "link": ""
             }
           ]
         }
