@@ -1,82 +1,62 @@
 {
-  "1": [
+  "courses": [
     {
-      "Title": "Mechanical Engineering",
-      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-      "Sub-Titles": [
+      "type": "Mechanical Engineering",
+      "subtopics": [
         {
-          "1": "Topic 1",
-          "topics": [
+          "name": "Subtopic 1",
+          "contents": [
             {
-              "title": "Item 1",
-              "link": ""
+              "title": "Content Title 1",
+              "link": "/path/to/content1.md"
             },
             {
-              "title": "Item 2",
-              "link": ""
-            },
-            {
-              "title": "Item 3",
-              "link": ""
-            },
-            {
-              "title": "Item 4",
-              "link": ""
+              "title": "Content Title 2",
+              "link": "/path/to/content2.md"
             }
           ]
         },
         {
-          "2": "Topic 2",
-          "topics": [
+          "name": "Subtopic 2",
+          "contents": [
             {
-              "title": "Item 1",
-              "link": ""
+              "title": "Content Title 3",
+              "link": "/path/to/content3.md"
             },
             {
-              "title": "Item 2",
-              "link": ""
-            },
-            {
-              "title": "Item 3",
-              "link": ""
+              "title": "Content Title 4",
+              "link": "/path/to/content4.md"
             }
           ]
         }
       ]
-    }
-  ],
-  "2": [
+    },
     {
-      "Title": "Electrical Engineering",
-      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-      "Sub-Titles": [
+      "type": "Electrical Engineering",
+      "subtopics": [
         {
-          "1": "Topic 1",
-          "topics": [
+          "name": "Subtopic 1",
+          "contents": [
             {
-              "title": "Item 1",
-              "link": ""
+              "title": "Content Title 5",
+              "link": "/path/to/content5.md"
             },
             {
-              "title": "Item 2",
-              "link": ""
+              "title": "Content Title 6",
+              "link": "/path/to/content6.md"
             }
           ]
         },
         {
-          "2": "Topic 2",
-          "topics": [
+          "name": "Subtopic 2",
+          "contents": [
             {
-              "title": "Item 1",
-              "link": ""
+              "title": "Content Title 7",
+              "link": "/path/to/content7.md"
             },
             {
-              "title": "Item 2",
-              "link": ""
-            },
-            {
-              "title": "Item 3",
-              "link": ""
+              "title": "Content Title 8",
+              "link": "/path/to/content8.md"
             }
           ]
         }
